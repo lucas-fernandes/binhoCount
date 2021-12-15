@@ -1,1 +1,1 @@
-# FÉRIAS BINHO :sob: :fearful:
+# FÉRIAS DE BINHO :sob: :fearful:
