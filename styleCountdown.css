@@ -13,7 +13,9 @@ body{
   background-color: #F5F5F5;
   text-align: center;
   overflow: hidden-x;
-  background-image: url('https://all.accor.com/magazine/imagerie/ferias-na-praia-o-que-fazer-das-f163.jpg') no-repeat;
+  background-image: url(https://all.accor.com/magazine/imagerie/ferias-na-praia-o-que-fazer-das-f163.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 .hover {
