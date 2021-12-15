@@ -12,7 +12,7 @@ body{
   color: #6959CD;
   background-color: #F5F5F5;
   text-align: center;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 .hover {
   @extend :hover;
@@ -88,7 +88,7 @@ body{
 
 
 .container main{
-  margin-top: 5vh;
+  margin-top: 15vh;
 }
 .container main #styleTimes{
   margin-top: 3vh;
@@ -148,7 +148,7 @@ body{
 
 
 .container footer #copy{
-  margin-top: 15vh;
+  margin-top: 20vh;
 }
 .container footer a{
   text-decoration: none;
