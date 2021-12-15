@@ -3,7 +3,6 @@
   margin: 0;
   font-family: 'Balsamiq Sans', cursive;
   text-decoration: none;
-  background-image: url(https://blog.mywork.com.br/wp-content/uploads/2020/12/imagem-calculo-de-ferias-mywork.png);
 }
 body, html{
   height: 100%;
@@ -13,7 +12,9 @@ body{
   color: #6959CD;
   background-color: #F5F5F5;
   text-align: center;
-   overflow: hidden-x;
+  overflow: hidden-x;
+  background-image: url('https://all.accor.com/magazine/imagerie/ferias-na-praia-o-que-fazer-das-f163.jpg') no-repeat;
+  background-size: cover;
 }
 .hover {
   @extend :hover;
@@ -89,7 +90,7 @@ body{
 
 
 .container main{
-  margin-top: 10vh;
+  margin-top: 5vh;
 }
 .container main #styleTimes{
   margin-top: 3vh;
