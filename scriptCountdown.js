@@ -237,7 +237,7 @@ function mudaCor(){// themer styles
 
 }
 
-$(function() {//background image
+/*$(function() {//background image
   $('#image').change(function() {
     const file = $(this)[0].files[0];
     const fileReader = new FileReader();
@@ -249,4 +249,4 @@ $(function() {//background image
     }
     fileReader.readAsDataURL(file);
   })
-});
+});*/
